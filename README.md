@@ -3,14 +3,14 @@
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help us improve our coding skills by building realistic projects. 
 
 ## Table of contents
--[Screenshot](#screenshot)
--[The challenge](#the-challenge)
--[Links](#links)
--[Built with](#built-with)
+- [Screenshot](#screenshot)
+- [The challenge](#the-challenge)
+- [Links](#links)
+- [Built with](#built-with)
 
 ### Screenshot
 
-![](./Screenshot.jpg)
+![](.images/Screenshot.jpg)
 
 ### The challenge and my comments
 
