@@ -22,7 +22,7 @@ My comment: all tasks completed.
 
 ### Links
 
-Solution URL: [Add solution URL here](https://your-solution-url.com)
+[NFT Preview Card Page](https://axinitm.github.io/FM-NFT-preview-card/)
 
 ### Built with
 
